@@ -8,7 +8,7 @@ VAR timer1_success = false
 
 Герой: (Сделай выбор)
 + [Сделать выбор]
-     ->example_1
+     ->do_choice
 
 
 === do_choice ===
