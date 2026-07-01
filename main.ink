@@ -1,4 +1,4 @@
-VAR timer1_success = false;
+VAR timer1_success = false
 
 -> start
 === start ===
