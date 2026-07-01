@@ -13,5 +13,5 @@ VAR timer1_success = false
 
 === do_choice ===
 Вы {not timer1_success: не} успели сделать выбор вовремя.
-+ {!timer1_success}[Конец] -> END
++ {timer1_success}[Конец] -> END
 + [Попробовать еще раз] -> start
