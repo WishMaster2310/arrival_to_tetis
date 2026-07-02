@@ -3,7 +3,7 @@ VAR timer1_success = false
 -> start
 === start ===
 #Location: Рубка
-#Timer: 10,timer1_ended
+#Timer: 10,timer1_success
 Вам нужно успеть сделать выбор за 10 секунд.
 + [Сделать выбор]
      ->do_choice
