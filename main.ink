@@ -5,8 +5,6 @@ VAR timer1_success = false
 #Location: Рубка
 #Timer: 10,timer1_ended
 Вам нужно успеть сделать выбор за 10 секунд.
-
-Герой: (Сделай выбор)
 + [Сделать выбор]
      ->do_choice
 
